@@ -1,0 +1,2 @@
+# wildride
+# django project
